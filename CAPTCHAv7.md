@@ -378,12 +378,6 @@ risk = compute_risk(request)
 
 ---
 
-اگر بخوای، همین متن را **کاملاً سفارشیِ شرکت شما** می‌کنم:
-
-* یک بخش “Threat → Endpoint Mapping” برای سایت/اپ شما (login/signup/reset/OTP/contact/comment/API)
-* policy پیشنهادی thresholdها (بر اساس ریسک و نرخ‌ها)
-* و یک بخش “Runbook پاسخ به رخداد” برای زمانی که solve-rate جهشی شد یا حمله credential stuffing شروع شد.
-
 [1]: https://www.cloudflare.com/learning/bots/how-captchas-work/?utm_source=chatgpt.com "How CAPTCHAs work | What does CAPTCHA mean?"
 [2]: https://owasp.org/www-project-automated-threats-to-web-applications/?utm_source=chatgpt.com "OWASP Automated Threats to Web Applications"
 [3]: https://developers.google.com/recaptcha/docs/v3?utm_source=chatgpt.com "reCAPTCHA v3"
